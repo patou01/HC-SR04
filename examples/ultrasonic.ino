@@ -1,4 +1,4 @@
-#include "ultrasonic.h"
+#include "Ultrasonic.h"
 
 #define TRIG_PIN 5
 #define ECHO_PIN 6
