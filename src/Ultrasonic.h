@@ -1,3 +1,6 @@
+#ifndef ULTRASONIC_H
+#define ULTRASONIC_H
+
 #include "Arduino.h"
 
 #define SOUND_SPEED 343.0 // m/s
@@ -25,3 +28,6 @@ class Ultrasonic
 
   
 };
+
+
+#endif
