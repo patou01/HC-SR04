@@ -6,7 +6,7 @@
 #define SOUND_SPEED 343.0 // m/s
 #define US_TO_S 1e-6
 #define M_TO_CM 1e2
-#define CM_TO_IN 2.54
+#define CM_TO_IN 1.0/2.54
 
 class Ultrasonic
 {
